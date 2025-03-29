@@ -1,2 +1,2 @@
 # ClineMraft-V2
-The offical ClineMraft V2 Github!
+The official ClineMraft V2 Github!
